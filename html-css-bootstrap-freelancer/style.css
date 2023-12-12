@@ -1,0 +1,9 @@
+.my-star:after, .my-star:before{
+    content: "";
+    display: block;
+    width: 15%;
+    background-color: white;
+}
+
+
+
